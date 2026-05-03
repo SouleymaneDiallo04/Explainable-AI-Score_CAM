@@ -1,7 +1,7 @@
 # Score-CAM — Explainability Without Gradients
 
-**Mini-projet XAI · ENSAM · Décembre 2025**  
-Hinimdou Morsia Guitdam · Souleymane Diallo · Mohamed Taha El Younsi  
+**Mini-projet XAI · Décembre 2025**  
+Souleymane Diallo 
 Encadrant : Pr. Tawfik Masrour
 
 ---
