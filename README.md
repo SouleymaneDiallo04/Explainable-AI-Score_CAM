@@ -2,6 +2,7 @@
 
 **Mini-projet XAI · Décembre 2025**  
 Souleymane Diallo 
+
 Encadrant : Pr. Tawfik Masrour
 
 ---
